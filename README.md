@@ -15,8 +15,8 @@ This repository documents the progress made in an [IBM machine learning](https:/
 * Train Regression models to predict continuous outcomes.
 * Use error metrics to compare different models
 * Model best practices
-  i) Train and Test split
-  ii) Regularization techniques
+  + Train and Test split
+  + Regularization techniques
     - Lasso(L1 regularization)
     - Ridge(L2 regularization)
     - ElasticNet(L1+L2)
