@@ -22,12 +22,13 @@ This repository documents the progress made in an [IBM machine learning](https:/
     - ElasticNet(L1+L2)
 3) ### Supervied Machine Learning: Classification
    This [course](https://www.coursera.org/learn/supervised-machine-learning-classification) on Supervised Machine Learning Classification focuses on essential skills like Ensemble Learning, Machine Learning algorithms, Supervised Learning, Classification Algorithms, Decision Tree.
-* Logistic Regression.
-* K Nearest Neighbor.
-* Support Vector Machines.
-* Decision Tree.
-* Ensemble Models.
-* Modeling inbalanced Classes.
-* Random Forest.
+* Algorithms
+ + Logistic Regression.
+ + K Nearest Neighbor.
+ + Support Vector Machines.
+ + Decision Tree.
+ + Ensemble Models.
+ + Modeling inbalanced Classes.
+ + Random Forest.
 * Bagging.
 * Boosting and Stacking.
