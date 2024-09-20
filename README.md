@@ -41,3 +41,9 @@ This repository documents the progress made in an [IBM machine learning](https:/
     + Hierarchical clustering
     + Gaussian Mixture Model
     + MeanShift
+  * Dimensionality reduction.
+    + Principal Component Analysis.
+    + Non Negative Matric Factorization.
+    + Singular Value Decomposition.
+    + Multi Dimensional Scale.
+
