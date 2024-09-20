@@ -32,3 +32,18 @@ This repository documents the progress made in an [IBM machine learning](https:/
   + Random Forest.
 * Bagging.
 * Boosting and Stacking.
+4) ### Unsupervised Machine Learning
+   This [course](https://www.coursera.org/learn/ibm-unsupervised-machine-learning) on Unsupervised Machine Learning focuses on essential skills like clustering and dimensionality reduction.
+  * Clustering algorithms.
+    + KMeans
+    + DBSCAN
+    + Agglomerative
+    + Hierarchical clustering
+    + Gaussian Mixture Model
+    + MeanShift
+  * Dimensionality reduction.
+    + Principal Component Analysis.
+    + Non Negative Matric Factorization.
+    + Singular Value Decomposition.
+    + Multi Dimensional Scale.
+
