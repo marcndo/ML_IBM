@@ -46,4 +46,13 @@ This repository documents the progress made in an [IBM machine learning](https:/
     + Non Negative Matric Factorization.
     + Singular Value Decomposition.
     + Multi Dimensional Scale.
-
+5) ### Deep Learning and Reinforcement Learning
+    This [course](https://www.coursera.org/learn/deep-learning-reinforcement-learning) Deep Learning and Reinforcement Learning focuses on key skills like Artificial Neural Networks, Deep Learning and Reinforcement Learning with their libraries. The following areas are covered in this course.
+   + Neural Networks.
+   + Back propagation.
+   + Neural Network Optimizers.
+   + Convolutional Neural Networks.
+   + Recurrent Neural Networks and Long-Short-Term Memory Networks.
+   + Autoencoders.
+   + Generative Models and application.
+   + Reinforcement Learning.
